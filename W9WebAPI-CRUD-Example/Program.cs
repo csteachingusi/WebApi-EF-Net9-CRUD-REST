@@ -1,5 +1,4 @@
 using Microsoft.EntityFrameworkCore;
-using PropertyAPI.Data;
 using W9WebAPI_CRUD_Example.Data;
 
 var builder = WebApplication.CreateBuilder(args);
