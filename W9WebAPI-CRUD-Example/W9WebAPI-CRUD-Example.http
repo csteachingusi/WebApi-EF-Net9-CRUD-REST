@@ -1,0 +1,6 @@
+@W9WebAPI_CRUD_Example_HostAddress = http://localhost:5126
+
+GET {{W9WebAPI_CRUD_Example_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
